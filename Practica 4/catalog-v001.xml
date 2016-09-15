@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://dbpedia.org/ontology/" uri="ontolog_a-peliculas/dbpedia_3-2.7.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.movieontology.org/2009/11/09/movieontology.owl" uri="ontolog_a-peliculas/movieontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.owl-ontologies.com/Student_Monitoring.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/student_monitoring.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.owl-ontologies.com/Student_Profile.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/student_profile.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.owl-ontologies.com/student_information" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/student_information.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.pizza.com/ontologies/pizza.owl" uri="P3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.semanticweb.org/ontologies/2012/9/knowledge_object.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/knowledge_object.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.semanticweb.org/ontologies/2012/9/learning_objective.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/learning_objective.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.semanticweb.org/ontologies/2012/9/student_state.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/student_state.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.semanticweb.org/ontologies/2012/9/student_trace.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/student_trace.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462813543799" name="http://www.semanticweb.org/ontologies/2012/9/tutoring_information.owl" uri="Practica_3/pdfs%20y%20mas%20archivacos/ontoME12/trunk/tutoring_information.owl"/>
+    </group>
+</catalog>

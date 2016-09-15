@@ -1,0 +1,19 @@
+nodejs:
+    container_name: nodejs
+    volumes:
+        - ./DockerNodeJS/nodejs:/nodejs
+    ports:
+        - "8080:8080"
+        - "10010:10010"
+        - "20020:20020"
+    build: ./DockerNodeJS/
+    links:
+        - mysql
+    command: sh /nodejs/init.sh
+
+mysql:
+    container_name: mysqlserv
+    build: ./DockerMySQL/
+    ports:
+        - "3306:3306"
+    command: sh /usr/local/bin/start-database.sh
